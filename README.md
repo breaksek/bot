@@ -72,8 +72,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Aiinne/Aine-MD
-cd Aiinne-MD
+git clone https://github.com/breaksek/breaksekBOT
+cd breaksekBOT
 npm install
 npm update
 ```
@@ -89,13 +89,6 @@ Login with your github
 Click Launch Dev Environment
 Choose your repo
 ```
-
-
----------
-
-## PANEL/RDP/VPS
-
-* Amiruldev [`Click Here`](https://www.amiruldev.my.id)
 
 
 ---------
@@ -186,7 +179,7 @@ gconly: false, // If that chat not from group, bot will ignore
 
 Allah SWT,
 
-Orang Tua,
+Diri Sendiri,
 
 Semua yang selalu mendukung
 
